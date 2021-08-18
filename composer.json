@@ -1,0 +1,16 @@
+{
+    "name": "phamnsinh/base-module",
+    "description": "Laravel Module Starer",
+    "autoload": {
+        "psr-4": {
+            "PhamNSinh\\BaseModule\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phamnsinh",
+            "email": "smagic39@gmail.com"
+        }
+    ],
+    "require": {}
+}
